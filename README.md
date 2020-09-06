@@ -12,3 +12,6 @@ Please refer to your lab instructions for definitive directions. In general, clo
 
 ## Adding My Name
 Anthony Nwintiribu Basingnaa
+
+## Link to Website
+https://basingnaa.github.io/lab-1/
